@@ -1,0 +1,13 @@
+{
+  "baseFontSize": 15,
+  "theme": "obsidian",
+  "cssTheme": "Primary",
+  "enabledCssSnippets": [
+    "tags",
+    "tag_colors"
+  ],
+  "translucency": false,
+  "accentColor": "#e22c75",
+  "nativeMenus": true,
+  "showViewHeader": true
+}
