@@ -13,13 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "4_🖥computer/Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce15c7b1e959ea58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_🖥computer/Git two folder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8fd57fb727aeed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_🖥computer/Upload a Project to GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "307103dc8f6e55fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0_📥Fleeting notes/Site.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb7c3c13a7790031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4_🖥computer/Upload a Project to GitHub.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -49,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "file: git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +107,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -78,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0_📥Fleeting notes/Site.md",
+                "file": "4_🖥computer/Git two folder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTimeReverse",
@@ -116,9 +166,10 @@
       "obsidian-excalidraw-plugin:New Excalidraw drawing": false
     }
   },
-  "active": "e1550c18bf051d6c",
+  "active": "ce15c7b1e959ea58",
   "lastOpenFiles": [
     "4_🖥computer/Upload a Project to GitHub.md",
+    "4_🖥computer/Git two folder.md",
     "4_🖥computer/Git.md",
     "0_📥Fleeting notes/Site.md",
     "4_🖥computer/Download repository from GitHub with CL.md",
@@ -126,7 +177,6 @@
     "Excalidraw/Drawing 2023-01-10 18.23.43.excalidraw.md",
     "Excalidraw/Drawing 2023-01-10 18.30.17.excalidraw.md",
     "2_🗂️Permanent notes/Quantum mechanics.md",
-    "0_📥Fleeting notes/Check  5 Dec.md",
-    "0_📥Fleeting notes/Color code.md"
+    "0_📥Fleeting notes/Check  5 Dec.md"
   ]
 }
